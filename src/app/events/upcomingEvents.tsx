@@ -29,7 +29,7 @@ export default function UpcomingEvents() {
                         <div className="bg-black/60 rounded-xl p-8 border border-blue-400/50 text-center">
                             <h3 className="text-3xl title-font text-blue-300 mb-4">No Upcoming Events Currently Scheduled</h3>
                             <p className="text-white text-xl mb-4">
-                                We're planning exciting new events for our community. Check back soon for updates!
+                                We&apos;re planning exciting new events for our community. Check back soon for updates!
                             </p>
                             <p className="text-white text-lg">
                                 Want to stay informed? Follow us on social media or 

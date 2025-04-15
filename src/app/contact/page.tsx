@@ -43,7 +43,7 @@ export default function Contact() {
                     <h2 className="text-4xl font-bold mb-6 text-blue-400 subtitle-font">Get in Touch</h2>
                     
                     <p className="text-white mb-8 text-lg">
-                      Have questions about our events, volunteering opportunities, or want to support our mission? We'd love to hear from you!
+                      Have questions about our events, volunteering opportunities, or want to support our mission? We&apos;d love to hear from you!
                     </p>
                     
                     <div className="space-y-6">

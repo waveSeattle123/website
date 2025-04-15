@@ -43,7 +43,7 @@ export default function Donate() {
                     <h2 className="text-4xl font-bold mb-6 text-blue-400 subtitle-font">Why Your Support Matters</h2>
                     
                     <p className="text-white mb-4 text-lg">
-                      Your donation directly supports Wave Seattle's efforts to raise funds for Seattle Children's Hospital uncompensated care fund. Every contribution helps ensure that children receive the medical care they need regardless of their family's ability to pay.
+                      Your donation directly supports Wave Seattle&apos;s efforts to raise funds for Seattle Children&apos;s Hospital uncompensated care fund. Every contribution helps ensure that children receive the medical care they need regardless of their family&apos;s ability to pay.
                     </p>
                     
                     <div className="text-center mb-6">
@@ -55,7 +55,7 @@ export default function Donate() {
                       </ul>
                     </div>
 
-                    <p className="text-2xl subtitle-font font-bold text-blue-400">100% of donations go to Seattle Children's Hospital</p>
+                    <p className="text-2xl subtitle-font font-bold text-blue-400">100% of donations go to Seattle Children&apos;s Hospital</p>
                   </div>
                   
                   <div className="mt-auto">

@@ -28,10 +28,10 @@ export default function AboutTitle() {
               <div className="bg-black/50 rounded-lg p-6 w-full h-full flex flex-col justify-center">
                 <h3 className="text-center text-xl md:text-5xl text-blue-400 mb-4 subtitle-font">What is Wave?</h3>
                 <p className="text-white text-lg mt-8 text-center">
-                  Wave is a chapter of the Seattle Children's Guild Association. Wave represents our pillars of Wellness, Awareness, Vision, and Empowerment. We are dedicated to fundraising efforts to provide and support care at the Seattle Children's Hospital. The foundational qualities of Wellness, Awareness, Vision, and Empowerment serve as the guiding principles of our nonprofit organization.
+                  Wave is a chapter of the Seattle Children&apos;s Guild Association. Wave represents our pillars of Wellness, Awareness, Vision, and Empowerment. We are dedicated to fundraising efforts to provide and support care at the Seattle Children&apos;s Hospital. The foundational qualities of Wellness, Awareness, Vision, and Empowerment serve as the guiding principles of our nonprofit organization.
                 </p>
                 <p className="text-white text-lg mt-10 text-center">
-                   Through our fundraising events centering around Indian culture, we aim to raise both funds and awareness for the Seattle Children's Hospital. We are committed to supporting the hospital's mission of providing exceptional care to children and families in need.
+                   Through our fundraising events centering around Indian culture, we aim to raise both funds and awareness for the Seattle Children&apos;s Hospital. We are committed to supporting the hospital&apos;s mission of providing exceptional care to children and families in need.
                 </p>
                 
                 <div className="flex justify-center mt-8">

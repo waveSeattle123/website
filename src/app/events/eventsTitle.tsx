@@ -28,7 +28,7 @@ export default function EventsTitle() {
               <div className="bg-black/50 rounded-lg p-6 w-full h-full flex flex-col justify-center">
                 <h3 className="text-center text-xl md:text-5xl text-blue-400 mb-4 subtitle-font">Our Events</h3>
                 <p className="text-white text-lg mt-8 text-center">
-                  Wave Seattle hosts a variety of fundraising events that celebrate Indian culture while supporting Seattle Children's Hospital. Our events bring the community together to raise awareness and funds for uncompensated care.
+                  Wave Seattle hosts a variety of fundraising events that celebrate Indian culture while supporting Seattle Children&apos;s Hospital. Our events bring the community together to raise awareness and funds for uncompensated care.
                 </p>
                 <p className="text-white text-lg mt-10 text-center">
                   From experiencing cultural celebrations and performances to trying delicious food, our events are designed to be fun and engaging while also providing funding for our mission. Join us for our next event, and be part of the Wave Seattle community!
