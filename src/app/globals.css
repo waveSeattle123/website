@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Limelight&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+@import "tailwindcss";
+
+.bg-color {
+    background-color: #176380;
+}
+
+.bg-color-gradient {
+    background: linear-gradient(to right, #176380 75%, rgba(23, 99, 128, 0) 100%);
+}
+
+.title-font {
+    font-family: 'Limelight', cursive;
+}
+
+.title-color {
+    color: #74a7b8;
+}
+
+.subtitle-font {
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+.text-color {
+    color: #517389;
+}
+
+@keyframes bounce-subtle {
+
+    0%,
+    100% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(-5px);
+    }
+}
+
+.animate-bounce-subtle {
+    animation: bounce-subtle 2s infinite ease-in-out;
+}
+
+@keyframes wave-letter {
+    0% {
+        transform: translateY(0);
+    }
+
+    25% {
+        transform: translateY(-20px);
+    }
+
+    50% {
+        transform: translateY(0);
+    }
+
+    75% {
+        transform: translateY(5px);
+    }
+
+    100% {
+        transform: translateY(0);
+    }
+}
+
+.animate-wave-letter {
+    display: inline-block;
+    animation: wave-letter 1.5s ease-in-out infinite;
+    animation-fill-mode: both;
+    transform-origin: bottom center;
+}
+
+@keyframes pulse-glow {
+    0% {
+        box-shadow: 0 0 5px 0px rgba(96, 165, 250, 0.5),
+            0 0 10px 0px rgba(59, 130, 246, 0.3);
+    }
+
+    50% {
+        box-shadow: 0 0 15px 5px rgba(96, 165, 250, 0.5),
+            0 0 25px 10px rgba(59, 130, 246, 0.3);
+    }
+
+    100% {
+        box-shadow: 0 0 5px 0px rgba(96, 165, 250, 0.5),
+            0 0 10px 0px rgba(59, 130, 246, 0.3);
+    }
+}
+
+.animate-pulse-glow {
+    animation: pulse-glow 10s infinite;
+}
